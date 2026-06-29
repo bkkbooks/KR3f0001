@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3f0001/WYG/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七
+  hash: sha256:1b0542878c67f6cdf30e23c175cdcfc8c341b835e66bbf1596a823812397b2a3
+metadata:
+  title: 周髀算經
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 03:53:37.222005'
+  source:
+    repository: kanripo
+    path: KR3f0001/KR3f0001_001.txt
+hash: sha256:68d9ffefb53078e088a3b222e34d2052d17625a56451a1a88a56eb010b1df707

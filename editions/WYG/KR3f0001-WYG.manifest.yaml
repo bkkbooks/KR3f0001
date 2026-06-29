@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR3f0001/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3f0001/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 周髀算經
+  date: '2015-09-11 03:53:37.222005'
+  source:
+    repository: kanripo
+    path: KR3f0001
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3f0001_000-WYG.yaml, hash: 'sha256:a9d8c9c2e1276b4a5c45f61e065488627f4f72e2327f91fb49aa32076045a4c3'}
+  - {seq: 1, filename: KR3f0001_001-WYG.yaml, hash: 'sha256:68d9ffefb53078e088a3b222e34d2052d17625a56451a1a88a56eb010b1df707'}
+  - {seq: 2, filename: KR3f0001_002-WYG.yaml, hash: 'sha256:8afc5f27647e151420d94c24f4d6b891314609cd1acf9b9e8e93f3ca5c582d28'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3f0001_000-WYG.markers.yaml, hash: 'sha256:86f986103c83a90c6c210e84927730edcf712e762e5cb077d904068db9ceb7f4'}
+  - {seq: 1, role: markers, filename: assets/KR3f0001_001-WYG.markers.yaml, hash: 'sha256:6daa6e6a792c434101edcf81af777017d06236b1ca65cb33955d025578aba377'}
+  - {seq: 2, role: markers, filename: assets/KR3f0001_002-WYG.markers.yaml, hash: 'sha256:ccdd8a8fc74f21524b6d711d7ef35a9015722d2dc8e51233fb732803c174de44'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0001_WYG_002-35a
+    span:
+    - body
+    - 0
+    - 9491
+  label: juan 002
+  type: section
+  level: 1
+hash: sha256:82e6453f62931a940bc9a08abe4921accffc8d0e1a9e3aef5a02326c934dd0ec

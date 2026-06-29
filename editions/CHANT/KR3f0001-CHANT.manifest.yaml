@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR3f0001/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR3f0001/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 周髀算經
+  identifiers:
+    krp: KR3f0001
+  tags:
+    tls-dates: dat05000
+    kr-categories: KR3f
+  source:
+    repository: tls-texts
+    path: data/tls/KR3f0001.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR3f0001_001-CHANT.yaml, hash: 'sha256:74071a186d4cf95e5e66bacf56c382fb2e9aee0bb54d9b8ce0a08ffdce5784bd'}
+  - {seq: 2, filename: KR3f0001_002-CHANT.yaml, hash: 'sha256:572492f902c2db8443363546bfb7fd90ef48d940953bfab90d7963765f107661'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3f0001_001-CHANT.markers.yaml, hash: 'sha256:1f9533ed6c0ee277150bffae7cae65242d7c451c254d80eb00dc97db124b6968'}
+  - {seq: 2, role: markers, filename: assets/KR3f0001_002-CHANT.markers.yaml, hash: 'sha256:b7b382b1a5c1ab01465b87e1d84388b63bf525c68b44937268dc27d7b91c2cc9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3f0001_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 2790
+  label: 周髀算經卷上
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3f0001_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 3475
+  label: 周髀算經卷下
+  type: section
+  level: 1
+hash: sha256:9b01cc9d789dd8817cba131b63b28eb3ba8b214d2fae7adc3bd28f14ec275d71

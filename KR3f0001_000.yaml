@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3f0001/chant/v1/juan/0
+seq: 0
+front:
+  text: 周髀算經序夫高而大者莫大於天厚而廣者莫廣於地體恢洪而廓落形修廣而幽清可以玄象課其進退然而宏遠不可指掌也可以晷儀驗其長短然其巨闊不可度量也雖窮神知化不能極其妙探賾索隱不能盡其微是以詭異之說出則兩端之理生遂有渾天蓋天兼而並之故能彌綸天地之道有以見天地之賾則渾天有靈憲之文蓋天有周髀之法纍代存之官司是掌所以欽若昊天恭授民時爽以暗蔽才學淺昧鄰高山之仰止慕景行之軌轍負薪餘日聊觀周髀其旨約而遠其言曲或作典而中將恐廢替濡滯不通使談天者無所取則輒依經為圖誠冀頽毁重仞之牆披露堂室之奧庶博物君子時逈思焉
+  hash: sha256:4b6a1e7ff52defa1643d4103f05ab24248c0f41c7c79171c0df6348306e48899
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3f0001_tls_000-001cs.3}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 周髀算經
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3f0001.xml
+hash: sha256:87d571781c7ae515bbcc9eb326c12f51d66b127c79b462c670bbe394aa9e5059
