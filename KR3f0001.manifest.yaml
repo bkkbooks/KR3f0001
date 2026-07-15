@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3f0001/v1
 canonical_location: https://kanripo.org/bkk/KR3f0001/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 周髀算經
   identifiers:
@@ -22,13 +22,13 @@ editions:
 - short: krp
 assets:
   parts:
-  - {seq: 0, filename: KR3f0001_000.yaml, hash: 'sha256:9de6bc485568461bf63fd8c92060a703161a640bd159176a2694af2569c158ca'}
-  - {seq: 1, filename: KR3f0001_001.yaml, hash: 'sha256:250853f467a41d88c759d7f1769dab6e916113645226b4da7648d272ac112378'}
-  - {seq: 2, filename: KR3f0001_002.yaml, hash: 'sha256:1f9db10ad8d4fb59a4c38f33c0b3532bba4e20508646068e89838da7001395b5'}
+  - {seq: 0, filename: KR3f0001_000.yaml, hash: 'sha256:6350d913400404ddfa8faba0e1e82baedb3fce9eff5e5adeba75cdcb33d6b3ec'}
+  - {seq: 1, filename: KR3f0001_001.yaml, hash: 'sha256:824bc86d346defe68c7b67a04d78f36962bad7ae181eff73b2f5622298a21b34'}
+  - {seq: 2, filename: KR3f0001_002.yaml, hash: 'sha256:5f9da61fefa98d975b7b44c18479964e3b5a8381fb5928b03c8fb72ae988a275'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3f0001_000.markers.yaml, hash: 'sha256:0c0b2dc7c2b54ca10110d7471effd9eedad8588ca25e6d69ea83250c86d9c160'}
-  - {seq: 1, role: markers, filename: assets/KR3f0001_001.markers.yaml, hash: 'sha256:787f76d3b1a31dd09d2a11c14f131eb4932fdae245fc6d93d8218995f02a6862'}
-  - {seq: 2, role: markers, filename: assets/KR3f0001_002.markers.yaml, hash: 'sha256:c5ebff59a65af122cc7d8284157337c259b70adac0a9cfd0d0521147576037a2'}
+  - {seq: 0, role: markers, filename: assets/KR3f0001_000.markers.yaml, hash: 'sha256:88a23a3411f3205d873d2180761b5ffe05b2fe6c29f549f1173b58c010a37940'}
+  - {seq: 1, role: markers, filename: assets/KR3f0001_001.markers.yaml, hash: 'sha256:8d6f95280f44d79c87941d5fcb807be43854986a19c906dd0efbea4c02c73d98'}
+  - {seq: 2, role: markers, filename: assets/KR3f0001_002.markers.yaml, hash: 'sha256:7570b2ef06738634316fb6d22fa38b6ffada543e8fb73a9e475ee95420963cfd'}
 table_of_contents:
 - ref:
     seq: 0
@@ -70,4 +70,7 @@ table_of_contents:
   label: 周髀算經卷下
   type: section
   level: 1
-hash: sha256:d10a171e98cb2421368f0018034aae03aba2a2b2cd907977ec27f134bc836c0d
+hash: sha256:8d9a3bc716f3ca45118efb7d3b948cb7d6609e8a3db4f700ac78d485607b8345
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

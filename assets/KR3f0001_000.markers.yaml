@@ -23,6 +23,7 @@ markers:
   - {type: 'tls:seg', offset: 28, content: '', id: KR3f0001_tls_000-001cs.3.1.3}
   - {type: variant, offset: 29, length: 1, content: 脩, SBCK: 修}
   - {type: variant, offset: 29, length: 1, content: 脩, krp: 修}
+  - {type: substitution, offset: 29, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16957}}
   - {type: punctuation, offset: 34, content: 。, id: KR3f0001_tls_000-bkkpn4}
   - {type: 'tls:seg', offset: 34, content: '', id: KR3f0001_tls_000-001cs.3.1.4}
   - {type: line-break, offset: 41, content: '', id: KR3f0001_tls_000-bkklb3}
@@ -44,6 +45,7 @@ markers:
   - {type: punctuation, offset: 87, content: 。, id: KR3f0001_tls_000-bkkpn10}
   - {type: 'tls:seg', offset: 87, content: '', id: KR3f0001_tls_000-001cs.3.1.10}
   - {type: variant, offset: 92, length: 1, content: 說, SBCK: 􅀃}
+  - {type: substitution, offset: 92, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 94, content: ，, id: KR3f0001_tls_000-bkkpn11}
   - {type: 'tls:seg', offset: 94, content: '', id: KR3f0001_tls_000-001cs.3.1.11}
   - {type: line-break, offset: 95, content: '', id: KR3f0001_tls_000-bkklb6}
@@ -51,6 +53,7 @@ markers:
   - {type: 'tls:seg', offset: 100, content: '', id: KR3f0001_tls_000-001cs.3.1.12}
   - {type: punctuation, offset: 104, content: 、, id: KR3f0001_tls_000-bkkpn13}
   - {type: 'tls:seg', offset: 104, content: '', id: KR3f0001_tls_000-001cs.3.1.13}
+  - {type: substitution, offset: 104, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19539}}
   - {type: punctuation, offset: 110, content: 。, id: KR3f0001_tls_000-bkkpn14}
   - {type: 'tls:seg', offset: 110, content: '', id: KR3f0001_tls_000-001cs.3.1.14}
   - {type: line-break, offset: 113, content: '', id: KR3f0001_tls_000-bkklb7}
@@ -68,6 +71,7 @@ markers:
   - {type: variant, offset: 137, length: 1, content: 髀, krp: 􅙼}
   - {type: punctuation, offset: 140, content: 。, id: KR3f0001_tls_000-bkkpn18}
   - {type: 'tls:seg', offset: 140, content: '', id: KR3f0001_tls_000-001cs.3.1.18}
+  - {type: substitution, offset: 140, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20807}}
   - {type: punctuation, offset: 144, content: ，, id: KR3f0001_tls_000-bkkpn19}
   - {type: 'tls:seg', offset: 144, content: '', id: KR3f0001_tls_000-001cs.3.1.19}
   - {type: punctuation, offset: 148, content: 。, id: KR3f0001_tls_000-bkkpn20}
@@ -121,6 +125,7 @@ markers:
   - {type: 'tls:seg', offset: 215, content: '', id: KR3f0001_tls_000-001cs.3.1.28.2.4}
   - {type: variant, offset: 215, length: 1, content: 輒, SBCK: 輙}
   - {type: variant, offset: 215, length: 1, content: 輒, krp: 輙}
+  - {type: substitution, offset: 218, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 220, content: ，, id: KR3f0001_tls_000-bkkpn35}
   - {type: 'tls:seg', offset: 220, content: '', id: KR3f0001_tls_000-001cs.3.1.28.2.4.1}
   - {type: line-break, offset: 224, content: '', id: KR3f0001_tls_000-bkklb14}
@@ -128,6 +133,7 @@ markers:
   - {type: variant, offset: 227, length: 1, content: 牆, krp: 墻}
   - {type: punctuation, offset: 228, content: ，, id: KR3f0001_tls_000-bkkpn36}
   - {type: 'tls:seg', offset: 228, content: '', id: KR3f0001_tls_000-001cs.3.1.28.2.4.2}
+  - {type: substitution, offset: 233, original: 奥, replacement: 奧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20620}}
   - {type: punctuation, offset: 234, content: 。, id: KR3f0001_tls_000-bkkpn37}
   - {type: 'tls:seg', offset: 234, content: '', id: KR3f0001_tls_000-001cs.3.1.28.2.4.3}
   - {type: variant, offset: 234, length: 1, content: 庶, SBCK: 庻}
@@ -144,4 +150,4 @@ markers:
   - {type: variant, offset: 243, length: 0, content: '', krp: 周􅙼題辭始讀周􅙼輙駭其艱怪及再一尋討不過乘方圓參兩以生勾股遂至于算數所不可及葢亦因天地自然之數耳故其書稱榮方學于陳子至畢思騖神卒無所用其智乃知謂天葢高固可坐而定者不誣也然周􅙼率以表影一寸度爲千里按李淳風所引宋元嘉十九年測影干交州夏至日影在表南三寸二分共得一尺八寸二分洛去交一萬一千里是不及六百里一寸也觀此則日徑千二百五十里去地八萬里之說又有不可盡據者故蔡邕謂周􅙼術數具存驗天多所違失又云周􅙼者即葢天之說也是以王任仲據葢天之說以駮渾儀爲桓君山所屈則周􅙼之術可睹矣又淳風别引宋書歷志二十四表影與今宋書相較則互有不同近刻宋書爲友人姚叔祥所校稱善本因舉此叚問之叔祥云于時政以不得周􅙼故貽足下今日之問耳併識于此以竢刋定繡水沈士龍題周􅙼以周人志之乃稱周􅙼而虞喜則謂天之體轉四方地體卑不動天周其上故云周其解周字又一義也然周􅙼之說奪于渾天如楊子雲八難卒無有能破之者惟梁武帝于長春殿講義别儗天體全同周􅙼以排渾天之論其後遂不復顯凡以世乏善算遂令眞秘湮屈余讀魏書有􅋖人成公興傭賃宼謙之家爲其開舍南辣田謙之坐樹下算興時來看後謙之算七曜有所不了惘然自失興曰先生何爲不懌謙之曰我學算累年而近算周􅙼不合以此自媿且非汝所知何勞問也興曰先生試隨興語布之俄然便决謙之歎伏不測請師事之興後入嵩山石室尸解乃知周􅙼非僊眞有道算難遽合彼桓鄭蔡陸者恐未易以聲附子雲也武原胡震亨題周􅙼題辭}
   body: []
   back: []
-hash: sha256:0c0b2dc7c2b54ca10110d7471effd9eedad8588ca25e6d69ea83250c86d9c160
+hash: sha256:88a23a3411f3205d873d2180761b5ffe05b2fe6c29f549f1173b58c010a37940
