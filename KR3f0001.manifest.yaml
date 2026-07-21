@@ -22,11 +22,11 @@ editions:
 - short: krp
 assets:
   parts:
-  - {seq: 0, filename: KR3f0001_000.yaml, hash: 'sha256:6350d913400404ddfa8faba0e1e82baedb3fce9eff5e5adeba75cdcb33d6b3ec'}
+  - {seq: 0, filename: KR3f0001_000.yaml, hash: 'sha256:9d0cf30bb2343315aad68bd514de3e96db46e6128c0cf5a4d9ccf4e76680b433'}
   - {seq: 1, filename: KR3f0001_001.yaml, hash: 'sha256:824bc86d346defe68c7b67a04d78f36962bad7ae181eff73b2f5622298a21b34'}
   - {seq: 2, filename: KR3f0001_002.yaml, hash: 'sha256:5f9da61fefa98d975b7b44c18479964e3b5a8381fb5928b03c8fb72ae988a275'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3f0001_000.markers.yaml, hash: 'sha256:88a23a3411f3205d873d2180761b5ffe05b2fe6c29f549f1173b58c010a37940'}
+  - {seq: 0, role: markers, filename: assets/KR3f0001_000.markers.yaml, hash: 'sha256:b19caa2de92042b88bf351fa00aa638d687d86bf042a4f949826390d51125fb1'}
   - {seq: 1, role: markers, filename: assets/KR3f0001_001.markers.yaml, hash: 'sha256:8d6f95280f44d79c87941d5fcb807be43854986a19c906dd0efbea4c02c73d98'}
   - {seq: 2, role: markers, filename: assets/KR3f0001_002.markers.yaml, hash: 'sha256:7570b2ef06738634316fb6d22fa38b6ffada543e8fb73a9e475ee95420963cfd'}
 table_of_contents:
@@ -34,7 +34,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3f0001_tls_000-001cs.3
     span:
-    - front
+    - body
     - 0
     - 243
   label: 周髀算經序
@@ -70,7 +70,7 @@ table_of_contents:
   label: 周髀算經卷下
   type: section
   level: 1
-hash: sha256:8d9a3bc716f3ca45118efb7d3b948cb7d6609e8a3db4f700ac78d485607b8345
+hash: sha256:65cba1fee8dd0c6693a17044feb431f00106b99ca45442d23b8df30f92f94a15
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

@@ -16,11 +16,11 @@ metadata:
     short: tls
 assets:
   parts:
-  - {seq: 0, filename: KR3f0001_000-tls.yaml, hash: 'sha256:e1a1db3a3fd1be60f82bb52aefc53844c974ebb64b3cd50af9f8e80ccbcb53ec'}
+  - {seq: 0, filename: KR3f0001_000-tls.yaml, hash: 'sha256:53cb59c5f1e83af8917f2ee1c1c844078156b01de3aa5d6a10a8cd3a59f8113c'}
   - {seq: 1, filename: KR3f0001_001-tls.yaml, hash: 'sha256:e417eba32b9e62f2cfd694135954556a7432cb68c6b3f700b803d1b3968cd868'}
   - {seq: 2, filename: KR3f0001_002-tls.yaml, hash: 'sha256:2accb7328dea9d402d5d0c9d7fa5447bac5e7947d465252a8697b02e5536c96d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3f0001_000-tls.markers.yaml, hash: 'sha256:bd858a628ca6105743c7bddbb1ac036d7b53c88b7b10fd586be009f4ead623c2'}
+  - {seq: 0, role: markers, filename: assets/KR3f0001_000-tls.markers.yaml, hash: 'sha256:b38edf74038f21d8e73ebdb8c85bc22c96ea33a25aa6dfa0f146c6922891cde8'}
   - {seq: 1, role: markers, filename: assets/KR3f0001_001-tls.markers.yaml, hash: 'sha256:315d6ab7b75bd0e42be4a85041b3185c2e2aa0f0a11f85237507fc483368cb0a'}
   - {seq: 2, role: markers, filename: assets/KR3f0001_002-tls.markers.yaml, hash: 'sha256:ef9749e6cbfcc579ae8882052386f62eeb102d67de685085928782d543eb3347'}
 table_of_contents:
@@ -28,7 +28,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3f0001_tls_000-001cs.3
     span:
-    - front
+    - body
     - 0
     - 243
   label: 周髀算經序
@@ -64,4 +64,4 @@ table_of_contents:
   label: 周髀算經卷下
   type: section
   level: 1
-hash: sha256:026df4c000786950fdd980a9a07e3ece59050230cbcc4ba3efdf621ce1497ba1
+hash: sha256:3ba5d42eb4214b79b1b95d9595a47f0c13ab3f0ed6414a45ad3f133d85b73aa6
